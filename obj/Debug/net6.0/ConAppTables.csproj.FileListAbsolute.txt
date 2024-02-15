@@ -1,0 +1,14 @@
+F:\ASP\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.exe
+F:\ASP\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.deps.json
+F:\ASP\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.runtimeconfig.json
+F:\ASP\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.dll
+F:\ASP\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.pdb
+F:\ASP\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.AssemblyInfoInputs.cache
+F:\ASP\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.AssemblyInfo.cs
+F:\ASP\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.csproj.CoreCompileInputs.cache
+F:\ASP\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.dll
+F:\ASP\ConAppTables\ConAppTables\obj\Debug\net6.0\refint\ConAppTables.dll
+F:\ASP\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.pdb
+F:\ASP\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.genruntimeconfig.cache
+F:\ASP\ConAppTables\ConAppTables\obj\Debug\net6.0\ref\ConAppTables.dll
